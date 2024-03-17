@@ -18,7 +18,6 @@ body {
     display: flex;
     color: #fffffe;
     border: 4px solid;
-    box-sizing: border-box;
     border-radius: 50%;
     background: radial-gradient(circle 5px, currentColor 95%, #0000),
         linear-gradient(currentColor 50%, #0000 0) 50%/4px 60% no-repeat;
